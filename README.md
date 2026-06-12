@@ -1,7 +1,3 @@
-Here’s a **clean, submission-ready README.md** you can copy-paste directly. It’s structured exactly how evaluators expect, but still minimal effort 👇
-
----
-
 # 🎟️ ShowTime - Ticket Booking System Architecture
 
 A system design project to build a scalable ticket booking platform (BookMyShow-like) capable of handling **5 lakh concurrent users** with **zero double-booking guarantee** under a constrained **$2,000/month AWS budget**.
